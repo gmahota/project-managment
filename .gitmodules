@@ -1,0 +1,6 @@
+[submodule "strapi-project-api"]
+	path = strapi-project-api
+	url = https://github.com/gmahota/strapi-project-api.git
+[submodule "nextjs-project-web"]
+	path = nextjs-project-web
+	url = https://github.com/gmahota/nextjs-project-web.git
